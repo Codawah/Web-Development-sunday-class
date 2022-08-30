@@ -4,7 +4,7 @@ The purpose of this course to acquired the minium skills as soon as possible to 
 
 ### Course Content
 
-1. [How Internet works?] (#1Internet)
+1. [How Internet works] (#Internet)
 
 
 
