@@ -6,6 +6,32 @@ The purpose of this course to acquired the minium skills as soon as possible to 
 
 1. [How Internet works](#Internet)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##Internet
 <a name="Internet"></a><a name="1.1"></a>
 This course is designed for busy people. Who do not wanna attend class every day.
